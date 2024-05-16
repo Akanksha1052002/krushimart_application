@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+.nb {
+	width: 100%;
+	position: fixed;
+	top: 0px;
+}
+
+.km {
+	font-size: 30px;
+	margin-left: 0px;
+	font-family: Algerian;
+	margin-top: 15px;
+	display: flex;
+	margin-right: 40%;
+}
+
+	
+	.navbar {
+	height: 10vh;
+	align-content: center;
+	left: 0px;
+	background-image: linear-gradient( #e4f5e8,#e4f5e8 )!important;
+	}
+
+.navmenue {
+	font-size: 25px;
+	margin-left: 15%;
+	font-family: Bahnschrift SemiBold Condensed;
+	margin-top: 4%;
+	font-weight: bold;
+	color: black !important;
+}

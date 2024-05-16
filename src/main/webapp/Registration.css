@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+input{
+width: 70%;
+height: 25px;
+border: none;
+border-bottom: 1px solid black;
+margin-left: 50px;
+margin-top: 10px;
+background: transparent;
+}
+.form{
+align-content: center; 
+border: 2px solid black;
+ width: 500px;
+ border-radius: 30px;
+ border-color:grey;
+ margin-left: 450px;
+ border-color: grey;
+}
+.fdiv{
+	margin-top: 500px
+}
+.flog{
+	margin-left: 100px ; 
+	margin-bottom: 200px; 
+	font-size: 20px; 
+	font-weight:bold; 
+	color: red;
+}
